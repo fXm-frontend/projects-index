@@ -6,14 +6,14 @@ This repository is an index showcasing my front-end projects built with **HTML, 
 ---
 
 ## 🧩 HTML & CSS Projects
-- [Landing Page](https://github.com/fXm-frontend/html-css-landing-page)
-- [Portfolio Website](https://github.com/fXm-frontend/html-css-portfolio)
+- 
+- 
 
 ---
 
 ## ⚙️ HTML, CSS & JavaScript Projects
-- [Todo App](https://github.com/fXm-frontend/html-css-js-todo-app)
-- [E-commerce Store](https://github.com/fXm-frontend/html-css-js-ecommerce)
+- 
+- 
 
 ---
 
